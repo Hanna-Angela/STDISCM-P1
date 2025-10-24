@@ -1,5 +1,6 @@
 # STDISCM-P1
 P1 - Threaded Prime Number Search
+S17 - Hanna Angela D. De Los Santos
 
 ### Configuration & Setup
 
