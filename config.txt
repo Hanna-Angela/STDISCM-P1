@@ -1,0 +1,3 @@
+threads=80
+limit=65536
+mode=4
