@@ -11,7 +11,7 @@ S17 - Hanna Angela D. De Los Santos
 
 ### Configuration Options
 
-You can adjust the following parameters in the **config file** or program input:
+You can adjust the following parameters in the **config file**:
 
 | Parameter | Description | Example |
 |------------|--------------|----------|
